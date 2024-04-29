@@ -12,14 +12,11 @@ function App() {
     <Provider store={store}>
       <Router>
         <Navbar />
-        {/* <Routes>
+        <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/empdetails" element={<EmployeeDetails />} />
-          <Route path="/addemployee" element={<AddEmployee />} />
-        </Routes> */}
-
-        <AddEmployee />
-        <EmployeeDetails />
+          <Route path="/addemp" element={<AddEmployee />} />
+        </Routes>
       </Router>
     </Provider>
   )
