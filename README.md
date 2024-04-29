@@ -1,0 +1,5 @@
+![safertek1](https://github.com/saekumar/2100032358_Frontend/assets/109736498/718563a8-3ef2-49f3-b74a-486e1f32d617)
+![safertek1](https://github.com/saekumar/2100032358_Frontend/assets/109736498/ed31a01f-0335-44fb-9cd7-9005aeb625dc)
+![safertek1](https://github.com/saekumar/2100032358_Frontend/assets/109736498/766aa0fb-744c-4031-a5d4-34f998b30276)
+![safertek1](https://github.com/saekumar/2100032358_Frontend/assets/109736498/8267eb02-c5d2-4262-89a3-bd37f09496f0)
+![safertek1](https://github.com/saekumar/2100032358_Frontend/assets/109736498/6d85f3a3-f947-4605-9b3e-7e1f7c9c2d71)
